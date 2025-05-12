@@ -1,0 +1,14 @@
+Experiment 18: Standing Waves on a String: Tension and the Speed of Vibrations,,,,,
+Table 18-1: Linear Mass Density (μ) and Average frequency Estimate (fₐᵥ) an fixed length (L) ,,,,,
+Lₛₜᵣᵢₙg (m),Mₛₜᵣᵢₙg (kg),μₑₛₜ (kg/m),fₘᵢₙ,fₘₐₓ,fₐᵥg (Hz)
+1.83,0.0006,,,,60
+,,,,,
+"Table 18-2: Mass determined Standing Waves by changing the tension, T {g=9.81 m/s²}",,,,,
+Harmonic Number (n),Suspended Mass M (kg),Segment Length L/n (m),Segment Length Squared (L²/n² (m²),Tension T (N= kg m/s²),
+2.0,0.19,0.68,0.4624,1.8639,
+3.0,0.105,0.505,0.255,1.03,
+4.0,0.055,0.37,0.1369,0.5396,
+5.0,0.03,0.27,0.0729,0.2943,
+6.0,0.025,0.255,0.065,0.2453,
+7.0,0.015,0.18,0.0324,0.1472,
+8.0,0.012,0.165,0.0272,0.1177,
